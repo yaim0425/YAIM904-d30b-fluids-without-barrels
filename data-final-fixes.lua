@@ -828,7 +828,7 @@ function This_MOD.create_recipe___convert()
         Recipe.icons = GMOD.copy(space.fluid.icons)
 
         --- Categoria de fabricación
-        Recipe.category = This_MOD.prefix .. space.action
+        Recipe.categories = { This_MOD.prefix .. space.action }
 
         --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
