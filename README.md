@@ -1,39 +1,27 @@
-# YAIM904 d05b – Free Fluids 💧♻️
+# YAIM904 d30b – Fluids without barrels 💧📦
 
 ## 📦 Description
 
-**YAIM904 d05b – Free Fluids** adds special recipes that allow players to **generate fluids for free** and **destroy unwanted fluids**.
+**YAIM904 d30b – Fluids without barrels** allows players to **store and transport fluids as items**, without requiring barrels.
 
-This MOD is designed to remove fluid bottlenecks during testing, creative play, or large-scale factory experimentation.
+This MOD introduces a dedicated assembling machine that converts fluids into items and items back into fluids, providing an alternative way to handle fluid storage and transportation.
 
 It introduces:
 
-* 💧 **Supply recipes** that create fluids instantly
-* ♻️ **Destroy recipes** that safely remove fluids from the system
+- 💧 **Fluid packaging** – Converts fluids into inventory items.
+- ♻️ **Fluid recovery** – Converts fluid items back into their original fluids.
+- 🏭 **Dedicated assembling machine** – Handles both conversion processes.
 
 ---
 
 ## ⚙️ How it works (Player view)
 
-* New recipes become available for multiple fluid types
-* Supply recipes output fluid without requiring input
-* Destroy recipes consume fluid and produce nothing
-* Recipes can be used with standard fluid-handling machines
+- Place the MOD's dedicated assembling machine.
+- Supply it with fluids to convert them into items.
+- Use the resulting items for storage and transportation.
+- Process the items again to recover the original fluids.
 
-No configuration is required. Just unlock and use the recipes.
-
----
-
-## ⚠️ Warnings
-
-* 🚨 **This MOD completely breaks fluid balance**
-* 💧 Removes all production and logistics challenges related to fluids
-* 🧪 Recommended for:
-
-  * Sandbox and creative worlds
-  * Blueprint and factory testing
-  * Debugging and experimentation
-* ❌ Not recommended for normal or progression-based gameplay
+No barrels are required. Fluids can be handled through standard item logistics.
 
 ---
 
@@ -56,8 +44,8 @@ Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
 
 ## 🖼️ Screenshots
 
-![Screenshot 1](https://github.com/YAIM904-d30b-fluids-without-barrels/raw/code/screenshot/(1).png)
+![Screenshot 1](https://github.com/yaim0425/YAIM904-d30b-fluids-without-barrels/blob/main/screenshot/(1).png)
 
-![Screenshot 1](https://github.com/YAIM904-d30b-fluids-without-barrels/raw/code/screenshot/(2).png)
+![Screenshot 2](https://github.com/yaim0425/YAIM904-d30b-fluids-without-barrels/blob/main/screenshot/(2).png)
 
-![Screenshot 1](https://github.com/YAIM904-d30b-fluids-without-barrels/raw/code/screenshot/(2).png)
+![Screenshot 3](https://github.com/yaim0425/YAIM904-d30b-fluids-without-barrels/blob/main/screenshot/(2).png)
