@@ -1,12 +1,12 @@
 {
-    "name":  "YAIM904-d30b-fluids-without-barrels",
-    "version":  "0.0.3",
-    "title":  "YAIM904 d30b Fluids without barrels",
-    "author":  "YAIM904",
-    "factorio_version":  "2.0",
-    "description":  "Create recipes that turn fluids into objects, and vice versa. [[I accept suggestions]]",
-    "homepage":  "https://github.com/yaim0425/YAIM904-d30b-fluids-without-barrels",
+    "name": "YAIM904-d30b-fluids-without-barrels",
+    "version": "1.0.0",
+    "title": "YAIM904 d30b Fluids without barrels",
+    "author": "YAIM904",
+    "factorio_version": "2.0",
+    "description": "Create recipes that turn fluids into objects, and vice versa. [[I accept suggestions]]",
+    "homepage": "https://github.com/yaim0425/YAIM904-d30b-fluids-without-barrels",
     "dependencies":  [
-        "YAIM904-d00b-core"
+        "YAIM904-d00b-core >= 1.0.0"
     ]
 }
