@@ -67,11 +67,11 @@ function This_MOD.reference_values()
     --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
     --- Cargar la configuración
-    This_MOD.setting = GMOD.setting[This_MOD.id] or {}
+    This_MOD.setting   = GMOD.setting[This_MOD.id] or {}
 
     --- Indicador del mod
-    This_MOD.delete    = { icon = GMOD.signal.deny,          scale = 0.15, shift = { 14, -14 } }
-    This_MOD.create    = { icon = GMOD.signal.check,         scale = 0.15, shift = { 14, -14 } }
+    This_MOD.delete    = { icon = GMOD.signal.deny, scale = 0.15, shift = { 14, -14 } }
+    This_MOD.create    = { icon = GMOD.signal.check, scale = 0.15, shift = { 14, -14 } }
     This_MOD.item_icon = { icon = GMOD.signal["stack-size"], scale = 0.15, shift = { 14, -14 } }
 
     --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
@@ -101,7 +101,7 @@ function This_MOD.reference_values()
         localised_description = {},
         energy_required = 0.1,
 
-        category = "chemistry",
+        categories = { "chemistry" },
         hide_from_player_crafting = true,
         subgroup = "",
         order = "",
